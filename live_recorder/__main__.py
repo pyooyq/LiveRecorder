@@ -1,6 +1,6 @@
 import argparse
-from live_recorder import you_live
-from live_recorder import version
+import you_live
+import version
 
 args = None
 
